@@ -207,6 +207,7 @@ body{
 .service-box p{
     font-size: 1.6rem;
     margin: 1rem 0 2rem 0;
+    text-align: justify;
 }
 .portofolio{
     background: var(--second-bg-color);
