@@ -87,10 +87,10 @@ body{
     line-height: 1.3;
 }
 .home-content{
-    margin-right: 50rem;
+    margin-right: 33rem;
 }
 .home-img img{
-    width: 35rem;
+    width: 45rem;
     bottom: auto;
     animation: floatimage 4s ease-in-out infinite;
 }
@@ -115,6 +115,7 @@ body{
     width: 4rem;
     height: 4rem;
     background: black;
+    color: white;
     border: .2rem solid var(--main-color);
     border-radius: 50%;
     font-size: 2rem;
@@ -134,7 +135,7 @@ body{
     box-shadow: 0 0 3rem var(--main-color);
     font-size: 1.6rem ;
     font-weight: 600;
-    color: var(--second-bg-color);
+    color: white;
     letter-spacing: 3px;
     transition: 1s ease;
 }
@@ -146,7 +147,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--second-bg-color);
     gap: 3rem;
 }
 .about-img img{
@@ -208,9 +208,6 @@ body{
     font-size: 1.6rem;
     margin: 1rem 0 2rem 0;
     text-align: justify;
-}
-.portofolio{
-    background: var(--second-bg-color);
 }
 .portofolio h2{
     margin-bottom: 4rem;
