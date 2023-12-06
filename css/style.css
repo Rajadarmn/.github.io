@@ -389,6 +389,9 @@ body{
     }
     .home-content{
         font-size: 5rem;
+        margin-left: 50rem;
+        justify-content: center;
+        text-align: center;
     }
     .home-img img{
         width: 70vw;
@@ -396,6 +399,10 @@ body{
     }
     .about{
         flex-direction: column-reverse;
+        text-align: center;
+    }
+    .about-content .heading{
+        text-align: center;
     }
     .about-img img{
         width: 70vw;
